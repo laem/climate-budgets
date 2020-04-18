@@ -1,0 +1,15 @@
+{
+  "name": "climate-budgets",
+  "version": "0.0.1",
+  "description": "Use the best estimations of climate budgets to reach warning objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/laem/climate-budgets"
+  },
+  "author": "",
+  "license": "MIT"
+}
